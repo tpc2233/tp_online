@@ -1,4 +1,5 @@
-<img width="1699" height="1744" alt="tp_online_gui" src="https://github.com/user-attachments/assets/e87215f7-aadb-4134-9965-3808941b1591" />
+<img width="1702" height="1735" alt="tp_online_gui" src="https://github.com/user-attachments/assets/61dc4112-648e-4d39-80d7-0254914bcd72" />
+
 
 
 ## ✨ Key Features
@@ -15,3 +16,4 @@
 
 
 <img width="1687" height="547" alt="target_fps" src="https://github.com/user-attachments/assets/47111353-5ba8-40c3-a4c3-3c40f7a84ccf" />
+<img width="1705" height="280" alt="remastering" src="https://github.com/user-attachments/assets/60c30b7c-283d-4b51-b499-bd65ae86a2c2" />
