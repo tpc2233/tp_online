@@ -1,3 +1,7 @@
+<img width="1687" height="547" alt="target_fps" src="https://github.com/user-attachments/assets/47111353-5ba8-40c3-a4c3-3c40f7a84ccf" />
+<img width="1699" height="1744" alt="tp_online_gui" src="https://github.com/user-attachments/assets/e87215f7-aadb-4134-9965-3808941b1591" />
+
+
 ## ✨ Key Features
 
 * 🎬 **Scene-Aware Interpolation:** with PySceneDetect (Adaptive & Content detection) to map video cuts. It dynamically halts interpolation at scene boundaries, seamlessly copying edge-frames instead of morphing between completely different shots.
