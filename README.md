@@ -10,7 +10,7 @@
 * 🧠 **Practical-RIFE AI:** Utilizes `hzwer/Practical-RIFE` for high-quality, motion-compensated frame generation.
 * 📐 **Resolution Independent:** Safely processes *any* resolution or aspect ratio (1080p, 4K, 4:3, Vertical 9:16, or irregular crops) using dynamic tensor edge-padding.
 * ⚙️ **Fractional Framerate Math:** Calculates variable-rate timesteps to handle complex frame rate conversions perfectly (e.g., converting 23.976 fps to 59.94 fps).
-* 🚀 **VRAM Optimized:** Runs in `fp16` (Half-precision) on CUDA by default for faster renders and lower GPU memory consumption.
+* 🚀 **QUALITY Optimized:** Runs in `fp32` (Full-precision) on CUDA by default for quality renders
 * 📦 **Zero-Config Setup:** Automatically downloads `ffmpeg`/`ffprobe` and fetches the necessarymodel weights 
 
 
