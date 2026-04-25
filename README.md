@@ -1,4 +1,3 @@
-<img width="1687" height="547" alt="target_fps" src="https://github.com/user-attachments/assets/47111353-5ba8-40c3-a4c3-3c40f7a84ccf" />
 <img width="1699" height="1744" alt="tp_online_gui" src="https://github.com/user-attachments/assets/e87215f7-aadb-4134-9965-3808941b1591" />
 
 
@@ -20,3 +19,5 @@
 4. **Extraction:** Dumps source frames to a localized cache as 8-bit RGB `.png`s.
 5. **AI Interpolation:** Passes the frame pairs through the RIFE neural network via PyTorch.
 6. **Encoding:** Uses `ffmpeg` to stitch the generated frames back together, mapping the original audio and matching the requested color profiles and outputs (h264, h265, or ProRes).
+
+<img width="1687" height="547" alt="target_fps" src="https://github.com/user-attachments/assets/47111353-5ba8-40c3-a4c3-3c40f7a84ccf" />
